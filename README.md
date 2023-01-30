@@ -7,7 +7,7 @@
 <li><a href="https://github.com/Amit-Kumar-Pandey-05"> Amit kr Pandey </a> </li>
 <li><a href="https://github.com/Dainwi"> Dainwi Kumar </a> </li>
 <li><a href=""> Aditya Anurag </a> </li>
-<li><a href=""> Arya Sharma </a> </li>
+<li><a href="https://github.com/itsaryasharma"> Arya Kumar </a> </li>
 
 <br></br>
 <h3> Visit Site at : <a href="#">Link will be updated soon</a>
