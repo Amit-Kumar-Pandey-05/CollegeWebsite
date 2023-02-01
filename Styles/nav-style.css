@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Poppins&display=swap");
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -54,6 +54,7 @@
     margin: 7px;
     border-radius: 0.1em;
     background: transparent;
+    color: #556dff !important;
     border: none;
     outline: none;
     overflow: hidden;
@@ -78,13 +79,13 @@
     overflow-y: hidden;
 }
 
-#title{
-   color: white;
-   position: absolute;
-   top: 20px;
-   left: 60px;
-   font-size: 12px;
-   overflow-x: hidden;   
+#title {
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    font-size: 12px;
+    overflow-x: hidden;
 }
 
 /* -------------- Icon style ---------- */
@@ -102,7 +103,6 @@
 }
 
 @media (min-width: 780px) {
-
     #open-btn {
         display: none;
     }
@@ -112,21 +112,25 @@
     #menu-icon {
         display: none;
     }
-    
- 
+
     nav {
         width: 100%;
         position: sticky;
         top: 0px;
+        height: 60px;
+        background: #6a78ff;
     }
     .nav-links {
-        width: 95%;
+        width: 100%;
         display: flex;
         justify-content: right;
         align-items: center;
         position: fixed;
         top: 0px;
         overflow-y: hidden;
+        height: 60px;
+        background: #6a78ff;
+        z-index: 1000;
     }
 
     .nav-links li {
