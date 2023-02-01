@@ -53,6 +53,12 @@ body {
   .text-box1 img {
     margin-left: -30px;
   }
+
+  .flex-container {
+    /* This class added by Dainwi Kumar */
+    display: flex;
+    justify-content: space-around;
+  }
 }
 
 /*------------ container2 -----------*/
@@ -77,12 +83,6 @@ body {
 .reveal.active {
   transform: translateY(0);
   opacity: 1;
-}
-
-.flex-container {
-  /* This class added by Dainwi Kumar */
-  display: flex;
-  justify-content: space-around;
 }
 
 @media screen and (max-width: 768px) {
