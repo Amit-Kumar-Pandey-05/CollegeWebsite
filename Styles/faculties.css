@@ -13,6 +13,7 @@
     overflow: hidden;
     padding-top: 90px;
     padding-bottom: 90px;
+    padding-bottom: 10em;
 }
 
 #title3{
@@ -26,7 +27,7 @@
 }
 .teachers {
     width: 190px;
-    height: 290px;
+    height: 300px;
     margin: auto;
     border-radius: 0.5em;
     margin-top: 20px;
@@ -42,7 +43,7 @@
     height: 100%;
 }
 .teachers h3{font-size: 12px;padding: 5px;}
-.teachers p{font-size: 10px;padding: 5px;}
+.teachers p{font-size: 9px;padding: 5px;}
 .teachers:hover{
     transform: scale(1.7,1.7) translateX(-25% );
     transition: all 1s ease-in-out;
