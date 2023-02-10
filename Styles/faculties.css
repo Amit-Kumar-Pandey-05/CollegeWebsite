@@ -1,20 +1,23 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 .faculties {
-    background: #ff9d2b;
-    width: 100%;
-    height: 40em;
-    display: flex;
-    flex-direction: row;
-    object-fit: fill;
+  background: #ff9d2b;
+  width: 100%;
+  height: 40em;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  object-fit: fill;
+  justify-content: center;
 }
 
 .teachers {
-    width: 200px;
-    height: 200px;
-    background: #8098ff;
-    margin: auto;
+  width: 200px;
+  height: 200px;
+  background: #8098ff;
+  margin: 1rem;
 }
