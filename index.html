@@ -1,154 +1,225 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <!-- imported links-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"  integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"  crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/1.0.1/soc.min.js" integrity="sha512-eUJ3eP9+avp5kHKhfx5gB0vzLEgMkZiOmZcpVqJmlg9hMMse2SChMOTSDWl6oYGfmYW2N7oO/W6CqpgYBneqKw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!-- custom styles -->
+        <link rel="stylesheet" href="nav-style.css" />
+        <link rel="stylesheet" href="./Styles/section-style.css" />
+        <link rel="stylesheet" href="./Styles/card-slider.css" />
+        <link rel="stylesheet" href="./Styles/faculties.css"/>
+        <link rel="stylesheet" href="./Styles/footer.css">
+        <link rel="shortcut icon" href="./images/favi-icon.jpg" type="image/x-icon"/>
+        
+        <title>gpranchi.edu.in</title>
+    </head>
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <!-- imported links-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" />
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/SocialIcons/1.0.1/soc.min.js"
-        integrity="sha512-eUJ3eP9+avp5kHKhfx5gB0vzLEgMkZiOmZcpVqJmlg9hMMse2SChMOTSDWl6oYGfmYW2N7oO/W6CqpgYBneqKw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <!-- custom styles -->
-    <link rel="stylesheet" href="nav-style.css" />
-    <link rel="stylesheet" href="./Styles/section-style.css" />
-    <link rel="stylesheet" href="./Styles/card-slider.css" />
-    <link rel="stylesheet" href="./Styles/faculties.css" />
-    <link rel="shortcut icon" href="./images/favi-icon.jpg" type="image/x-icon" />
-
-    <title>gpranchi.edu.in</title>
-</head>
-
-<body>
-
-    <header class="header">
-        <a href="" class="fa fa-facebook"></a>
-        <a href="" class="fa fa-instagram"></a>
-        <a href="" class="fa fa-twitter"></a>
-        <a href="" class="fa fa-linkedin"></a>
-    </header>
-
-
-    <div class="head">
-        <button id="open-btn" onclick="openMenu()">
-            <span class="material-symbols-outlined"> menu </span>
-        </button>
-        <img src="./images/favi-icon.png" id="menu-icon" />
-        <p id="title">Government Polytechnic Ranchi</p>
-    </div>
-
-    <div class="menu" id="menu">
-        <a href="#" id="close-btn" onclick="closeMenu()">
-            <span class="material-symbols-outlined"> close </span>
-        </a>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Departments</a></li>
-            <li><a href="#">Faculties</a></li>
-            <li><a href="#">Contact Us</a></li>
-        </ul>
-    </div>
-    <script src="nav.js"></script>
-
-    <nav>
-        <ul class="nav-links">
-            <img src="./images/favi-icon.png" id="nav-icon" />
+    <body>
+        
+        <header class="header">
+            <a href="" class="fa fa-facebook"></a>
+            <a href="" class="fa fa-instagram"></a>
+            <a href="" class="fa fa-twitter"></a>
+            <a href="" class="fa fa-linkedin"></a>
+        </header>
+        
+        
+        <div class="head">
+            <button id="open-btn" onclick="openMenu()">
+                <span class="material-symbols-outlined"> menu </span>
+            </button>
+            <img src="./images/favi-icon.png" id="menu-icon" />
             <p id="title">Government Polytechnic Ranchi</p>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Departments</a></li>
-            <li><a href="#">Faculties</a></li>
-            <li><a href="#">Contact Us</a></li>
-        </ul>
-    </nav>
+        </div>
 
-    <section>
-        <div class="container1 bg"></div>
-
-        <div class="container dep">
-            <h2>Deparments</h2>
-            <ul class="cards">
-
-                <li class="card">
-                    <div>
-                        <h3 class="card-title">Computer Science & Engg</h3>
-                        <img src="images/cse.webp" />
-                    </div>
-                    <div class="card-link-wrapper">
-                        <p>mei potenti molestie nostra erroribus audire conclusionemque dicunt
-                            mei tractatos rhoncus adipisci commune mazim sociosqu reprim
-                            ique dignissim aeque quod dui interesset sapien nunc blandit fames</p>
-                    </div>
-                </li>
-
-                <li class="card">
-                    <div>
-                        <h3 class="card-title">
-                            Electronics Communication & Engg
-                        </h3>
-                        <img src="images/ece.webp" />
-                    </div>
-                    <div class="card-link-wrapper">
-                        <p>eius rutrum ei pericula malesuada error parturient felis
-                            persequeris vituperata maiestatis adolescens non pellentesqu
-                            e adhuc epicurei amet metus urbanitas eloquentiam maximus aliquip mus pro wisi</p>
-                    </div>
-                </li>
-
-                <li class="card">
-                    <div>
-                        <h3 class="card-title">Electrical Engineering </h3>
-                        <img src="images/ee.webp" />
-                    </div>
-                    <div class="card-link-wrapper">
-                        <p>velit posuere cum suscipit ignota iuvaret tacimates conv
-                            enire mediocritatem eros iisque per menandri mazim elit clas
-                            s quaestio erat himenaeos veri maluisset donec conclusionemque invidunt integer</p>
-                    </div>
-                </li>
-
-                <li class="card">
-                    <div>
-                        <h3 class="card-title">Civil Engineering</h3>
-                        <img src="images/ce.webp" />
-                    </div>
-                    <div class="card-link-wrapper">
-                        <p>non fabulas augue vel felis quaerendum nonumy prodesset conceptam
-                            platonem euismod molestiae verterem erat offendit metus propriae mutat
-                            constituam latine cras tempor patrioque lacus turpis</p>
-                    </div>
-                </li>
-
-                <li class="card">
-                    <div>
-                        <h3 class="card-title">Mechanical Engineering</h3>
-                        <img src="images/">
-                    </div>
-                    <div class="card-link-wrapper">
-                        <p>dapibus ad antiopam invidunt mediocrem ultrices dicant quaeque arcu
-                            vituperata turpis eos definitiones similique tota prompta torquent per
-                            petua appetere utamur verear sociosqu sit nibh qui</p>
-                    </div>
-                </li>
-
+        <div class="menu" id="menu">
+            <a href="#" id="close-btn" onclick="closeMenu()">
+                <span class="material-symbols-outlined"> close </span>
+            </a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Departments</a></li>
+                <li><a href="#">Faculties</a></li>
+                <li><a href="#">Contact Us</a></li>
             </ul>
         </div>
+        <script src="nav.js"></script>
 
-        <div class="faculties">
-            <div class="teachers"></div>
-            <div class="teachers"></div>
-            <div class="teachers"></div>
-            <div class="teachers"></div>
-        </div>
-    </section>
-    <script src="animation.js"></script>
-</body>
+        <nav>
+            <ul class="nav-links">
+                <img src="./images/favi-icon.png" id="nav-icon" />
+                <p id="title">Government Polytechnic Ranchi</p>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Departments</a></li>
+                <li><a href="#">Faculties</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    
+    
+    
+    
+    <!-- body starts here -->
+    
+        <section>
+            
+            
+            <div class="container1 bg">
+                <img src="./images/principal_pic.png" alt="">
+                <h3>Principal's Message</h3>
+                <p>oratio iuvaret natum decore veritus aperiri felis magna has vocent ponderum necessitatibus adipiscing detraxit rutrum idque iusto commune proin magnis an</p>
+                
+                <h3>Visions</h3>
+                <p>fermentum mattis salutatus gloriatur ut alterum adversarium perpetua ac consectetur quam ponderum vero assueverit noluisse</p>
+            
+                <h3>Missons</h3>
+                <p>pretium erat risus ea delicata ac ridiculus legere causae malorum</p>
+            </div>
 
+            <div class="container dep">
+                <h2 style="text-align: center;color:#ff153f">Deparments</h2>
+                <ul class="cards">
+                    
+                    <li class="card">
+                        <div>
+                            <h3 class="card-title">Computer Science & Engg</h3>
+                            <img src="images/cse.webp" />
+                        </div>
+                        <div class="card-link-wrapper">
+                            <p>mei potenti molestie nostra erroribus audire conclusionemque dicunt
+                             mei tractatos rhoncus adipisci commune mazim sociosqu reprim
+                            ique dignissim aeque quod dui interesset sapien nunc blandit fames</p>
+                        </div>
+                    </li>
+                    
+                    <li class="card">
+                        <div>
+                            <h3 class="card-title">
+                                Electronics Communication & Engg
+                            </h3>
+                            <img src="images/ece.webp" />
+                        </div>
+                        <div class="card-link-wrapper">
+                            <p>eius rutrum ei pericula malesuada error parturient felis 
+                            persequeris vituperata maiestatis adolescens non pellentesqu
+                            e adhuc epicurei amet metus urbanitas eloquentiam maximus aliquip mus pro wisi</p>
+                        </div>
+                    </li>
+                    
+                    <li class="card">
+                        <div>
+                            <h3 class="card-title">Electrical Engineering </h3>
+                            <img src="images/ee.webp" />
+                        </div>
+                        <div class="card-link-wrapper">
+                            <p>velit posuere cum suscipit ignota iuvaret tacimates conv
+                            enire mediocritatem eros iisque per menandri mazim elit clas
+                            s quaestio erat himenaeos veri maluisset donec conclusionemque invidunt integer</p>
+                        </div>
+                    </li>
+                    
+                    <li class="card">
+                        <div>
+                            <h3 class="card-title">Civil Engineering</h3>
+                            <img src="images/ce.webp" />
+                        </div>
+                        <div class="card-link-wrapper">
+                            <p>non fabulas augue vel felis quaerendum nonumy prodesset conceptam
+                             platonem euismod molestiae verterem erat offendit metus propriae mutat
+                              constituam latine cras tempor patrioque lacus turpis</p>
+                        </div>
+                    </li>
+                    
+                    <li class="card">
+                        <div>
+                            <h3 class="card-title">Mechanical Engineering</h3>
+                            <img src="images/">
+                        </div>
+                        <div class="card-link-wrapper">
+                            <p>dapibus ad antiopam invidunt mediocrem ultrices dicant quaeque arcu
+                             vituperata turpis eos definitiones similique tota prompta torquent per
+                             petua appetere utamur verear sociosqu sit nibh qui</p>
+                        </div>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="faculties">
+                <h2 id="title3">Our Faculties</h2>
+                <div class="teachers" id="even">
+                    <img src="./images/teachers.jpg" alt="">
+                    <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+                </div>
+                <div class="teachers">
+                    <img src="./images/teachers.jpg" alt="">
+                    <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+
+                </div>
+                <div class="teachers" id="even">
+                    <img src="./images/teachers.jpg" alt="">
+                    <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+
+                </div>
+                <div class="teachers">
+                    <img src="./images/teachers.jpg" alt="">
+                     <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+                </div>
+                
+                <div class="teachers" id="even">
+                    <img src="./images/teachers.jpg" alt="">
+                    <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+                </div>
+                <div class="teachers">
+                    <img src="./images/teachers.jpg" alt="">
+                    <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+
+                </div>
+                <div class="teachers" id="even">
+                    <img src="./images/teachers.jpg" alt="">
+                    <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+
+                </div>
+                <div class="teachers">
+                    <img src="./images/teachers.jpg" alt="">
+                     <h3>Name of teachers</h3>
+                    <p>nibh deserunt accusata imperdiet tempus cu aliquip ultricies meliore hendrerit risus habemus habitasse iaculis civibus</p>
+          </section>
+        
+        <footer class="endbox">
+            
+            <h2>About Us</h2>
+            <p>iusto agam dolorum signiferumque repudiandae wisi appareat errem v
+            ocibus sonet ignota saperet inciderint vis causae cubilia dictas interesset 
+            suavitate turpis propriae feugait non tacimates aliquip porttitor euismod pl
+            acerat sem sem sumo iudicabit accusata nihil idque repudiandae ut comprehen
+            sam veri proin eu homero tristique duo hac ipsum purus orci finibus melius 
+            graeco cursus ligula nobis risus disputationi senserit quam risus pericula 
+            nostrum sit qui expetenda constituam euismod ei viris nascetur inimicus</p>
+            
+            <h2>Location</h2>
+            <p>Church Road , Bahut Bazar , Ranchi , Jharkhand</p>
+            
+            <h2>Contact Us</h2>
+            <p id="phone"><span class="material-symbols-outlined"> phone </span> : +91 00000 00000</p>
+            <p id="phone"><span class="material-symbols-outlined"> mail </span> : something_something@gmail.com</p>
+        </footer>
+        <script src="animation.js"></script>
+    </body>
 </html>
