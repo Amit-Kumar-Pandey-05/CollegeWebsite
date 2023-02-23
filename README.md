@@ -10,4 +10,4 @@
 <li><a href="https://github.com/itsaryasharma"> Arya Kumar </a> </li>
 
 <br></br>
-<h3> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">https://vivekthakurcse.github.io/CollegeWebsite/</a>
+<h3> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite/</a>
