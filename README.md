@@ -10,5 +10,5 @@
 <br/><a href="https://github.com/itsaryasharma"> Arya Kumar </a>
 </p>
 
-<br></br>
-<h3> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a>
+<br/>
+<h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
