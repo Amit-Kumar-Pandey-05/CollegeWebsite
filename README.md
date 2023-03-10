@@ -10,7 +10,9 @@
 <a href="https://github.com/itsaryasharma">Arya Kumar</a>
 </p></b>
 
-<img src = "https://contrib.rocks/image?repo = vivekthakurcse/CollegWebsite"/>
+<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
+  <img src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false">
+</a>
 
 <br/>
 <h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
