@@ -10,5 +10,7 @@
 <a href="https://github.com/itsaryasharma">Arya Kumar</a>
 </p></b>
 
+<img src = "https://contrib.rocks/image?repo=vivethakurcse/CollegWebsite"/>
+
 <br/>
 <h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
