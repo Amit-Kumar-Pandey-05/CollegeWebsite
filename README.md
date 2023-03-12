@@ -2,9 +2,13 @@
 <p>This is a group project in which we have created a website of our college <b>Goverment Polytechnic Ranchi </b></p>
 
 <b><p>This project has been done by the contribution of my team members :</p>
+
+
 | Contributors Name |     Registration No.  | 
 | ------------- | ------------- |
 |<a href="https://github.com/Amit-Kumar-Pandey-05">Amit Kr Pandey | 20101060005 |
+
+
 <p>
 Amit kr Pandey</a>
 <br/><a href="https://github.com/Dainwi">Dainwi Kumar</a>
