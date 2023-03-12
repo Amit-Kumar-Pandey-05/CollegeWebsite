@@ -4,7 +4,7 @@
 <p> This Project is can't be done without the contribution of my team members.</p>
 
 
-| Contributors  | Registration No |
+| Project Contributors Name | Registration No |
 | ------------- | ------------- |
 | <a href="#">Amit Kr Pandey</a>  | 20101060005 |
 | <a href="#">Dainwi Kumar</a> | 20101060005 |
