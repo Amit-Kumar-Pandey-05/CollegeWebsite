@@ -6,7 +6,7 @@
 
 | Contributors Name |     Registration No.  | 
 | ------------- | ------------- |
-|<a href="https://github.com/Amit-Kumar-Pandey-05">Amit Kr Pandey | 20101060005 |
+| Amit Kr Pandey | 20101060005 |
 
 
 <p>
