@@ -1,5 +1,5 @@
 <h1> College Group Project 👨‍🎓🔭 </h1>
-<p>This is a group project in which we have created a website of our college Goverment Polytechnic Ranchi </p>
+<p>This is a group project in which we have created a website of our college _Goverment Polytechnic Ranchi_ </p>
 
 <p> This Project is can't be done without the contribution of my team members.</p>
 
