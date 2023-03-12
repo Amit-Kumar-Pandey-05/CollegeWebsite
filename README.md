@@ -12,5 +12,13 @@
 
 
 
+| Languages |     Projects  | 
+ | ------------- | ------------- | 
+ | Java Programming  |   Hello World and Basic Practice Programs , Command Line  Calculator, CGPA Calculator , BMI Calculator , Quadratic Equation  solver , Voting Eligibility Checker ,  Student Management System , Employee Record Management System , Billing System , Word Counter , Rock-Paper-Scizor Game , Guess the Number Game and Program On OOPs    | 
+ | C++ Revision Tour | Hello world and Basic Practice Programs , Command Line Calculator , CGPA Calculator , Voting Eligibility Checker , and Programs on OOPs | 
+ 
+
+
+
 <br/>
 <h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
