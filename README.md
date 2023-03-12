@@ -1,7 +1,7 @@
 <h1> College Group Project 👨‍🎓🔭 </h1>
 <p>This is a group project in which we have created a website of our college <b>Goverment Polytechnic Ranchi </b></p>
 
-<b><p>This project has been done by the contribution of my team members :</p>
+<p>This project has been done by the contribution of my team members :</p>
 
  | Contributors Name | Registration No. | 
  | ------------- | ------------- | 
