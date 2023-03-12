@@ -3,7 +3,11 @@
 
 <b><p>This project has been done by the contribution of my team members :</p>
 
-
+ | Contributors Name | Registration No. | 
+ | ------------- | ------------- | 
+ | Amit Kr Pandry |  20101060005   | 
+ | C++ Revision Tour | Hello world and Basic Practice Programs , Command Line Calculator , CGPA Calculator , Voting Eligibility Checker , and Programs on OOPs | 
+ 
 
 
 <p>
