@@ -14,7 +14,7 @@
 <br/><a href="https://github.com/Dainwi">Dainwi Kumar</a>
 <br/><a href=""> Aditya Anurag </a><br/>
 <a href="https://github.com/itsaryasharma">Arya Kumar</a>
-</p></b>
+</p>
 
 
 <br/>
