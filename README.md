@@ -6,7 +6,7 @@
  | Contributors Name | Registration No. | 
  | ------------- | ------------- | 
  | Amit Kr Pandry |  20101060005   | 
- | C++ Revision Tour | Hello world and Basic Practice Programs , Command Line Calculator , CGPA Calculator , Voting Eligibility Checker , and Programs on OOPs | 
+ | Dainwi Kumar | 20101060024 | 
  
 
 
