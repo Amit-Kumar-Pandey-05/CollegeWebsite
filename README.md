@@ -3,8 +3,8 @@
 
 
 
-| Contributors Name | Registration No. |
-| --------------|------------- | 
+| Contributors | Registration No. |
+| ------------- |------------- | 
 | Amit Kr Pandry |  20101060005   | 
 | Dainwi Kumar | 20101060024 | 
 | Aditya Anurag | 201010600xx |
