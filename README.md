@@ -12,6 +12,5 @@
 | <a href="#">Aditya Anurag</a> | 20101060005 |
 
 
-
 <br/>
 <h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
