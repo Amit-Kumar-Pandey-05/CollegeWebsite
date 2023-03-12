@@ -5,11 +5,6 @@
 
 
 
-| Contributors Name |  Registration No.  | 
-| ------------- | ------------- |
-| Amit Kr Pandey | 20101060005 |
-
-
 
 <p>
 <br/><a href="https://github.com/Dainwi">Dainwi Kumar</a>
