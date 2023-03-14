@@ -6,11 +6,11 @@
 
 | Project's Contributors Name | Registration No. |
 | ------------- | ------------- |
-| <a href="#">Amit Kr Pandey</a>  | 20101060005 |
-| <a href="#">Dainwi Kumar</a> | 20101060024 |
-| <a href="#">Arya Kumar</a>  | 20101060014 |
-| <a href="#">Aditya Anurag</a> | 20101060004 |
-| <a href="#">Vivek Kumar</a> | 20101060063 |
+| <a href="https://github.com/Amit-Kumar-Pandey-05">Amit Kr Pandey</a>  | 20101060005 |
+| <a href="https://github.com/Dainwi">Dainwi Kumar</a> | 20101060024 |
+| <a href="https://github.com/itsaryasharma">Arya Kumar</a>  | 20101060014 |
+| <a href="https://github.com/">Aditya Anurag</a> | 20101060004 |
+| <a href="https://github.com/vivekthakurcse/">Vivek Kumar</a> | 20101060063 |
 
 <br/>
 <h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
