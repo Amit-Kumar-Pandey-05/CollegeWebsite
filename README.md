@@ -13,4 +13,4 @@
 | <a href="https://github.com/vivekthakurcse/">Vivek Kumar</a> | 20101060063 |
 
 <br/>
-<h4> Visit Site at : <a href="https://vivekthakurcse.github.io/CollegeWebsite/">vivekthakurcse.github.io/CollegeWebsite</a></h4>
+<h4> Visit Site at : <a href="https://Amit-Kumar-Pandey-05.github.io/CollegeWebsite/">Amit-Kumar-Pandey-05.github.io/CollegeWebsite</a></h4>
